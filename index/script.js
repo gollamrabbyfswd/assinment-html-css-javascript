@@ -26,3 +26,8 @@ document.addEventListener('DOMContentLoaded', function () {
         });
     });
 });
+
+
+const add = document.getElementsByClassName('nished')[2];
+add.textContent="mizanr";
+
